@@ -1,0 +1,59 @@
+Enter Your Current Remaining Limit: 660
+Enter Your Transaction Amount: 560
+Transaction Accepted
+Transaction Amount: 560
+Remaining Limit: 100
+=========================
+Enter Marks#1: 45
+Enter Marks#2: 65
+Enter Marks#3: 76
+PASS
+Average: 62.0
+=========================
+Enter current temperature in Celsius: 34
+NORMAL CONDITIONS
+=========================
+Enter order amount: 65
+Enter package weight (kg): 15
+Total Cost of Order = 85.00
+=========================
+Enter food cost: 23
+Enter number of people: 9
+Final Bill = 28.29
+=========================
+Enter gross income: 198
+Tax amount: $0.00
+Net income: $198.00
+=========================
+Enter number of rental days: 14
+Enter kilometers driven: 34
+Total = 504.00
+=========================
+=== Pointer Array Operations ===
+1. *ptr: 10
+2. *(ptr + 3): 40
+3. ptr[2]: 30
+4. After ptr + 4: 50
+5. ptr[1]: 60
+6. *ptr2: 60
+7. ptr2[-2]: 40
+=========================
+Final Values:
+a = 450
+b = 350
+c = 700
+=========================
+Elements using first pointer (some positions):
+1 4 6
+
+Elements using second pointer (with + and - indexing):
+5 7 4
+
+Numbers divisible by 3 in grid:
+3 6 9 12
+
+Last element (accessed differently): 12
+
+--------------------------------
+Process exited after 36.28 seconds with return value 0
+Press any key to continue . . .
